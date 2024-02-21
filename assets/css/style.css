@@ -1,0 +1,57 @@
+body {
+    Font-family: 'Roboto', sans-serif;
+}
+
+.card-text {
+    text-align: left;
+    font-weight: 300;
+}
+
+.card-body h2,
+.card-body h3,
+.card-body h4 {
+    margin-bottom: 6px;
+}
+
+.sub-text {
+    text-align: left;
+    font-weight: 200;
+}
+
+.car-body {
+    padding: 1rem;
+}
+
+.logo img {
+    width: 25px;
+    height: auto;
+    margin-right: auto;
+}
+
+h2 {
+    line-height: 1.2;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: lighter;
+    color: #212529;
+}
+
+h3 {
+    font-style: normal;
+    font-size: 16px;
+    font-weight: lighter;
+    color: #707070;
+    bottom: 82px;
+}
+
+h4 {
+    font-style: normal;
+    font-size: 15px;
+    font-weight: lighter;
+    color: #707070;
+    bottom: 63px;
+}
+
+.p {
+    bottom: 20px;
+}
